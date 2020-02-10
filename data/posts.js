@@ -1,13 +1,13 @@
 var posts = [{
         "id": "6",
-        "description": "Q",
+        "description": "This book is about the newly merged phenomenon “Q” and will describe it in detail in former sections. The book will also make an attempt to establish a connection among “Q” and the “deep state” and will answer the question such as, “How Q is systematically destroying the deep state?”",
         "img": "./data/image/Q.jpg",
         "currentdate": "02/10/2020"
 
 
     }, {
         "id": "5",
-        "description": "AICalypto II",
+        "description": "What happens to the Earth when AI has destroyed most of the planet? Is there hope for Humanity? Find out now with the second book in the series! AICalypto II.",
         "img": "./data/image/AI_2.jpg",
         "currentdate": "02/10/2020"
 
@@ -15,14 +15,14 @@ var posts = [{
     },
     {
         "id": "4",
-        "description": "AICalypto",
+        "description": "An AI so powerful that it derived thousands of years of human knowledge of the game before inventing better moves of its own, all in the space of 7 days and destroys the planet",
         "img": "./data/image/AI.jpg",
         "currentdate": "02/10/2020"
 
 
     }, {
         "id": "3",
-        "description": "Keto",
+        "description": "If you are struggling to lose that belly fat, no matter how much you exercise and eat healthy, Intermittent fasting will help you in getting rid of unwanted fat. It is easy to fit Intermittent Fasting in your schedule and this book will show you how to achieve that.",
         "img": "./data/image/BellyFat.jpg",
         "currentdate": "02/10/2020"
 
@@ -30,7 +30,7 @@ var posts = [{
     },
     {
         "id": "2",
-        "description": "Ivanka Trump 2024",
+        "description": "With the current nasty climate in Washington, DC and in between power struggles, America will be fed up with the games of Machoism by 2024 and would prefer a caring attitude of a woman to handle the day-to-day business of American politics. Ivanka would be a great fit for the Presidency of the USA.",
         "img": "./data/image/Ivanka.jpg",
         "currentdate": "02/10/2020"
 
@@ -38,7 +38,7 @@ var posts = [{
     },
     {
         "id": "1",
-        "description": "Conor Mcgregor",
+        "description": "Conor has all the tools necessary to beat Floyd. With his unusual style and movement, Conor will upset the greatest boxer of all time Floyd Mayweather. This books illustrates the reason behind it.",
         "img": "./data/image/Conor.jpg",
         "currentdate": "02/10/2020"
 
