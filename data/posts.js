@@ -16,7 +16,7 @@ var posts = [{
     },
     {
         "id": "4",
-        "description": "An AI so powerful that it derived thousands of years of human knowledge of the game before inventing better moves of its own, all in the space of 7 days and destroys the planet",
+        "description": "An AI so powerful that it derived thousands of years of human knowledge of the game before inventing better moves of its own, all in the space of 7 days and destroys the planet.",
         "img": "./data/image/AI.jpg",
         "currentdate": "02/10/2020",
         "link": "https://www.amazon.com/dp/B07FB3WNK6"
